@@ -75,12 +75,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/tryeverything36">
-    <img src="https://github-profile-trophy.vercel.app/?username=tryeverything36" alt="GitHub Trophy" />
-  </a>
-</p>
-
 
   <summary>Github Stats ⚡</summary>
   
